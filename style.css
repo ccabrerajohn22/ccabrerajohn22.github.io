@@ -1,14 +1,26 @@
-style.css
 body {
-    background-color: lightblue;
+  color: #ffe6ff;
+  font-size: 16px;
+  text-shadow: 4px 4px 4px #aaa;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+   background-image: url("http://i40.tinypic.com/15nvuwy.jpg");
 }
-
-h1 {
-    color: white;
+h1 a {
+    color: #ffe6ff;
     text-align: center;
 }
-
+.img {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+.nav {
+	color: #ffe6ff
+}
 p {
-    font-family: verdana;
-    font-size: 20px;
+        font-size: 16px;
+}
+
+
 }
